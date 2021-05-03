@@ -4,14 +4,16 @@
         {
             "names": ["org_id", "org_slug"],
             "values": [
-                ["1767", "berniesanders"],
-                ["1316", "elizabethwarren"],
-                ["1297", "peteforamerica"],
-                ["1393", "joebiden"],
-                ["159", "swingleft"],
-                ["1286", "needtoimpeach"],
-                ["206", "crooked"],
-                ["9", "dnc"]
+                ["2425", "sunrisemovement"],
+                ["1545", "mecklenburgcountydems"],
+                ["1914", "nsvrc"],
+                ["2578", "wakedems"],
+                ["6150", "yangforny"],
+                ["2220", "sjpd"],
+                ["7491", "dianne4nyc"],
+                ["6208", "jennifercarrollfoy"],
+                ["6176", "stringerformayor"],
+                ["1987", "ourrevolution"]
             ]
         },
         {
