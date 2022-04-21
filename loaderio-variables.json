@@ -4,16 +4,19 @@
         {
             "names": ["org_id", "org_slug"],
             "values": [
-                ["2425", "sunrisemovement"],
-                ["1545", "mecklenburgcountydems"],
-                ["1914", "nsvrc"],
-                ["2578", "wakedems"],
-                ["6150", "yangforny"],
-                ["2220", "sjpd"],
-                ["7491", "dianne4nyc"],
-                ["6208", "jennifercarrollfoy"],
-                ["6176", "stringerformayor"],
-                ["1987", "ourrevolution"]
+		[367, "reunion"],
+		[366, "parsonstest"],
+		[251, "keksan"],
+		[238, "kibrettforflorida"],
+		[252, "testingdash"],
+		[340, "statevoices"],
+		[301, "lizmtest"],
+		[333, "jaredstestorgforpostgres1016"],
+		[319, "bughunter"],
+		[148, "avi-ak-backfill-test"],
+		[114, "bernie2020officialevents"],
+		[341, "nea_childdashboardtest"],
+		[170, "sentant2"]
             ]
         },
         {
